@@ -16,7 +16,7 @@ of the training data. The model and the demo are on Hugging Face:
 | | Where | Access |
 |---|---|---|
 | 🤗 **Model** | [huggingface.co/repleeka/m2mTani-MT](https://huggingface.co/repleeka/m2mTani-MT) | Gated: request access on the model page |
-| 🤗 **Demo** | [huggingface.co/spaces/repleeka/m2mTani-MT-app](https://huggingface.co/spaces/repleeka/m2mTani-MT-app) | Sign in with a Hugging Face account approved on the model page |
+| 🤗 **Demo** | [huggingface.co/spaces/repleeka/m2mTani-MT-app](https://huggingface.co/spaces/repleeka/m2mTani-Translator) | Sign in with a Hugging Face account approved on the model page |
 | 📓 **Training** | [`notebooks/01_finetune_m2mTani_MT.ipynb`](notebooks/01_finetune_m2mTani_MT.ipynb) | This repository |
 
 ## Languages
