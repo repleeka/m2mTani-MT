@@ -3,7 +3,7 @@
 **Many-to-many machine translation for five Tani languages of Arunachal Pradesh, Hindi and English.**
 
 [![Model on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Model-m2mTani--MT-yellow)](https://huggingface.co/repleeka/m2mTani-MT)
-[![Demo Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-m2mTani--MT--app-blue)](https://huggingface.co/spaces/repleeka/m2mTani-MT-app)
+[![Demo Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-m2mTani--MT--app-blue)](https://huggingface.co/spaces/repleeka/m2mTani-Translator)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 m2mTani-MT fine-tunes [NLLB-200 distilled 600M](https://huggingface.co/facebook/nllb-200-distilled-600M) to translate
