@@ -1,0 +1,10 @@
+# Fine-tuning (notebooks/01_finetune_m2mTani_MT.ipynb) needs a CUDA GPU (developed on an RTX 4000 Ada, 20 GB)
+torch>=2.4
+transformers>=5.0,<6
+huggingface_hub>=1.0
+sacrebleu>=2.4
+numpy
+pandas
+pyarrow
+matplotlib
+jupyter

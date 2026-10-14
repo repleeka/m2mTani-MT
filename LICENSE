@@ -1,0 +1,18 @@
+m2mTani-MT
+Copyright (c) 2026 Tungon Dugi
+
+The code, notebooks, documentation and data sample in this repository are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to share and adapt this material for non-commercial purposes, provided you give
+appropriate credit (see CITATION.cff), provide a link to the license, and indicate if changes
+were made.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by-nc/4.0/
+
+The model weights (https://huggingface.co/YOUR_HF_USERNAME/m2mTani-MT) are also released under
+CC BY-NC 4.0, following the base model facebook/nllb-200-distilled-600M.
+
+Bible text is not included in this repository. Bible translations remain the property of their
+publishers; see data/README.md for links to the original sources.

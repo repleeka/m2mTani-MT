@@ -1,0 +1,9 @@
+# full corpora and training outputs are never committed
+mtani-corpora/
+runs/
+*.safetensors
+*.bin
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.env

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, data sample or model, please cite the paper below."
+title: "m2mTani-MT: fine-tuning code for many-to-many translation among five Tani languages, Hindi and English"
+authors:
+  - family-names: Dugi
+    given-names: Tungon
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology"
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/m2mTani-MT"
+url: "https://huggingface.co/YOUR_HF_USERNAME/m2mTani-MT"
+preferred-citation:
+  type: unpublished
+  title: "m2m-Tani-MT: Finetuning Multilingual Machine Translation Model for 5 Tani languages of Arunachal Pradesh"
+  authors:
+    - family-names: Dugi
+      given-names: Tungon
+      affiliation: "Department of Computer Science and Engineering, National Institute of Technology"
+  department: "Computer Science and Engineering"
+  institution:
+    name: "National Institute of Technology"
+  status: submitted
+  notes: "Manuscript under peer review"
+  year: 2026
